@@ -18,9 +18,9 @@
  * @package actionappwp
  * @since actionappwp 1.0.0
  *
- * Plugin Name: Action App UI Block for WordPress
+ * Plugin Name: ActionApp UI Blocks for WordPress
  * Plugin URI: https://github.com/hookedupjoe/actionapp-wp
- * Description: An advanced development environment for WordPress.
+ * Description: Semantic UI Based Blocks written in JavaScript (DEPRECATED)
  * Author: Joseph Francis
  * Author URI: https://www.hookedup.com
  * Donate-Link: https://www.hookedup.com/
