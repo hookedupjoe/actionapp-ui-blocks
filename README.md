@@ -5,5 +5,6 @@ Designed to build content using the Action App environment in WordPress
 * Author - Joseph Francis
 * License - License: GPLv3
 
-## DEPRECATED - SAVED AS EXAMPLE OF BUILDING BLOCKS IN JS
-The framework to build blocks like these are in the Pressino Core plugin.
+## DEPRECATED - Replaced with Pressino UI Blocks - Written in JSX
+- The framework to build blocks like these are in the Pressino Core plugin.
+- This library serves as an exmaple of how to build blocks outside the JSX environment
