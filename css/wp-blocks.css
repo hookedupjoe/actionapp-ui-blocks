@@ -1,0 +1,28 @@
+
+
+[data-type="actappui/segment"] .block-list-appender {
+	position:relative;
+}
+[data-type="actappui/segment"] .block-list-appender .block-editor-button-block-appender {
+	position:relative;
+}
+
+[data-type="actappui/segment"] .ui.inverted .block-list-appender .block-editor-button-block-appender {
+	position:relative;
+    color: white;
+    border: solid 1px white;
+}
+
+[data-type="actappui/segment"] .ui.inverted  .block-editor-inserter__toggle.has-icon {
+	position:relative;
+    color: white;
+    border: solid 2px white;
+}
+
+
+
+[data-type="actappui/gridcolumn"] :where(.wp-block) {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    max-width: 840px
+}

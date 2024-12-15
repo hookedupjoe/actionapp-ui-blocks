@@ -1,0 +1,9 @@
+
+
+
+.ui.segment.blue .wp-block-quote {
+    border-left:solid 5px #2185d0 !important;
+}
+.ui.segment.green .wp-block-quote {
+    border-left:solid 5px #21ba45  !important;
+}
